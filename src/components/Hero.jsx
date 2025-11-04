@@ -4,8 +4,8 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="https://images.unsplash.com/photo-1592924357228-91a4daadcfea?q=80&w=2070&auto=format&fit=crop"
-          alt="Citrus background"
+          src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?q=80&w=2070&auto=format&fit=crop"
+          alt="Lemon orchard background"
           className="h-full w-full object-cover object-center"
           loading="eager"
         />
