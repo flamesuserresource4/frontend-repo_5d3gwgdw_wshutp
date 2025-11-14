@@ -1,11 +1,11 @@
 export default function Hero() {
   return (
     <section className="relative overflow-hidden">
-      {/* Background image */}
+      {/* Background image (lemon orchard in Indonesia) */}
       <div className="absolute inset-0">
         <img
           src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?q=80&w=2070&auto=format&fit=crop"
-          alt="Lemon orchard background"
+          alt="Kebun lemon di Indonesia"
           className="h-full w-full object-cover object-center"
           loading="eager"
         />
